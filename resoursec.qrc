@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>png/folder.png</file>
+        <file>png/pause.png</file>
+        <file>png/play.png</file>
+        <file>png/right.png</file>
+        <file>png/stop.png</file>
+        <file>png/volume.png</file>
+        <file>png/volumex.png</file>
+    </qresource>
+</RCC>
